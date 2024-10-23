@@ -1,0 +1,1 @@
+# Monitoramento-de-Energia-e-Diagn-stico-de-Equipamentos-com-ESP32-
