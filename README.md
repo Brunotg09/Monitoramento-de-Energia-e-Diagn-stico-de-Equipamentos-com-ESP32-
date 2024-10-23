@@ -1,4 +1,3 @@
-# Monitoramento-de-Energia-e-Diagn-stico-de-Equipamentos-com-ESP32-
 # Sistema de Monitoramento de Energia e Diagnóstico de Equipamentos
 
 ## Descrição do Projeto
