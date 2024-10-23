@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consumo</title>
+    <link rel="stylesheet" href="/static/consumption.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Monitoramento de Consumo</h2>
+        <div class="table-wrapper">
+            <table id="consumptionTable">
+                <thead>
+                    <tr>
+                        <th>Data/Hora</th>
+                        <th>Umidade</th>
+                        <th>Temperatura</th>
+                        <th>Pressão</th>
+                        <th>Voltagem</th>
+                        <th>Corrente</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Os dados serão preenchidos aqui via JavaScript -->
+                </tbody>
+            </table>
+            <table>
+                <tr>
+                    <th>Consumo Diário Total</th>
+                    <td id="dailyTotal">-- kWh</td>
+                </tr>
+                <tr>
+                    <th>Média Diária de Consumo</th>
+                    <td id="dailyAvg">-- V, -- A</td>
+                </tr>
+                <tr>
+                    <th>Consumo Mensal Total</th>
+                    <td id="monthlyTotal">-- kWh</td>
+                </tr>
+                <tr>
+                    <th>Média Mensal de Consumo</th>
+                    <td id="monthlyAvg">-- V, -- A</td>
+                </tr>
+                <tr>
+                    <th>Status do Consumo</th>
+                    <td id="anomaliesStatus">--</td>
+                </tr>
+            </table>
+        </div>
+        <button id="sendReportBtn">Enviar Relatório Diário</button>
+        <button onclick="window.location.href='dashboard'">Voltar para o Dashboard</button>
+    </div>
+    <script src="/static/consumption.js"></script>
+</body>
+</html>
