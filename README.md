@@ -23,3 +23,8 @@ Este projeto visa desenvolver um sistema de monitoramento de energia e diagnóst
    - Implementação dos algoritmos de diagnóstico.
 4. *Testes e Validação*: Verificação do funcionamento do sistema em diferentes cenários.
 5. *Documentação*: Elaboração do relatório final e documentação do código.
+
+## Nome dos partocipantes
+- Adilson Armando Miguel  
+- Alan Fernandes Bispo do Nascimento 
+- Bruno Antônio Carvalho Goes 
