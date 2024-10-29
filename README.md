@@ -1,4 +1,4 @@
-# Sistema de Monitoramento de Energia e Diagnóstico de Equipamentos
+# MONITORAMENTO DE ENERGIA E DIAGNÓSTICO DE EQUIPAMENTOS EM CÔMODOS COM ESP32 
 
 ## Descrição do Projeto
 Este projeto visa desenvolver um sistema de monitoramento de energia e diagnóstico de equipamentos utilizando o microcontrolador ESP32. O objetivo principal é criar uma solução eficiente para monitorar o consumo de energia e identificar falhas em equipamentos elétricos, contribuindo para a manutenção preditiva e a eficiência energética.
